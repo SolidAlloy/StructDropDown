@@ -1,0 +1,26 @@
+{
+  "name": "com.solidalloy.drop.down.struct",
+  "version": "1.0.0",
+  "displayName": "Type References",
+  "description": "Attribute that allows to create drop-down lists from structs.",
+  "keywords": [
+    "dropdown",
+    "class",
+    "type",
+    "drop-down",
+    "reference",
+    "system.type"
+  ],
+  "author": {
+    "name": "SolidAlloy",
+    "url": "https://github.com/SolidAlloy/"
+  },
+  "samples": [
+    {
+      "displayName": "Demo",
+      "description": "Demo scene with a MonoBehaviour that has a class types drop-down in Inspector.",
+      "path": "Samples~/Demo"
+    }
+  ],
+  "type": "tool"
+}
