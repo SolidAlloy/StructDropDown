@@ -1,7 +1,7 @@
 {
     "name": "DropDownStruct.Editor",
     "references": [
-        "GUID:334b5e057c634014c8a4a07a1b1f6002"
+        "GUID:342804aa297874f499cc42e27df26e09"
     ],
     "includePlatforms": [
         "Editor"

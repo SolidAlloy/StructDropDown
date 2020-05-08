@@ -1,15 +1,14 @@
 {
   "name": "com.solidalloy.drop.down.struct",
-  "version": "1.0.0",
-  "displayName": "Type References",
+  "version": "0.1.0",
+  "displayName": "DropDown Struct",
   "description": "Attribute that allows to create drop-down lists from structs.",
   "keywords": [
     "dropdown",
     "class",
-    "type",
+    "struct",
     "drop-down",
-    "reference",
-    "system.type"
+    "enum"
   ],
   "author": {
     "name": "SolidAlloy",
