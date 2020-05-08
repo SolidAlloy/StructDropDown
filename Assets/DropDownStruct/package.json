@@ -16,9 +16,9 @@
   },
   "samples": [
     {
-      "displayName": "Demo",
-      "description": "Demo scene with a MonoBehaviour that has a class types drop-down in Inspector.",
-      "path": "Samples~/Demo"
+      "displayName": "Usage Example",
+      "description": "A MonoBehaviour script that uses DropDown attribute to show struct fields in a drop-down list.",
+      "path": "Samples~/UsageExample"
     }
   ],
   "type": "tool"
