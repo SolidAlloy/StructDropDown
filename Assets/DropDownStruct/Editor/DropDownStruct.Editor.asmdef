@@ -1,0 +1,17 @@
+{
+    "name": "DropDownStruct.Editor",
+    "references": [
+        "GUID:334b5e057c634014c8a4a07a1b1f6002"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
