@@ -7,17 +7,17 @@
 
     public class DropDownAttribute : PropertyAttribute
     {
+        private readonly Type _structType;
         private FieldInfo[] _fields;
 
         public DropDownAttribute(Type structType)
         {
-            StructType = structType;
+            _structType = structType;
 
             var fields = structType.GetFields(BindingFlags.Static | BindingFlags.Public);
             Fields = fields;
         }
 
-        public Type StructType { get; private set; }
         public FieldInfo[] Fields { get => _fields; private set => SetFields(value); }
 
         private void SetFields(FieldInfo[] fields)
@@ -31,7 +31,7 @@
             {
                 Debug.LogErrorFormat(
                     "Public static fields of {0} have inconsistent types. Please make them all of one type.",
-                    StructType);
+                    _structType);
 
                 _fields = new FieldInfo[] { };
             }

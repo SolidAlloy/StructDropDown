@@ -12,12 +12,11 @@
         {
             var dropDownAttribute = attribute as DropDownAttribute;
             var fields = dropDownAttribute.Fields;
-            var structType = dropDownAttribute.StructType;
 
             if (fields.Length != 0)
             {
                 int index = FindByValue(fields, PropertyValueHandler.GetTargetObjectOfProperty(property));
-                index = EditorGUI.Popup(position, structType.Name, index, GetFieldNames(fields));
+                index = EditorGUI.Popup(position, property.displayName, index, GetFieldNames(fields));
 
                 PropertyValueHandler.SetTargetObjectOfProperty(property, fields[index].GetValue(null));
             }
