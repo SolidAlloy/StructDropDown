@@ -1,5 +1,5 @@
 # Drop-down with objects of any type in Unity Inspector
-Create drop-down lists which can contain objects of any type with one simple attribute (and a tiny helper struct).
+Create drop-down lists that can contain objects of any type with one simple attribute (and a tiny helper struct).
 
 ## How to use
 ### Install via Git URL
