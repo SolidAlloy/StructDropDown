@@ -1,8 +1,8 @@
 {
   "name": "com.solidalloy.drop.down.struct",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "displayName": "DropDown Struct",
-  "description": "Attribute that allows to create drop-down lists from structs.",
+  "description": "Create drop-down lists which can contain objects of any type with one simple attribute.",
   "keywords": [
     "dropdown",
     "class",
