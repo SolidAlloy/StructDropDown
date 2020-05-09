@@ -10,7 +10,7 @@ Project supports Unity Package Manager. To install the project as a Git package,
 3. Enter "https://github.com/SolidAlloy/DropDownStruct.git#upm" and press **Add**.
 
 ### Add to project Assets
-Alternatively you can add the code directly to the project:
+Alternatively, you can add the code directly to the project:
 
 1. Clone the repo or download the latest release.
 2. Add the DropDownStruct folder to your Unity project.
