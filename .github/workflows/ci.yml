@@ -26,4 +26,4 @@ jobs:
         fi
         git push -f -u origin upm
       env:
-        PKG_ROOT: Assets/DropDownStruct
+        PKG_ROOT: Assets/StructDropDown
