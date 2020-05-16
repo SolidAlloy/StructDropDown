@@ -1,4 +1,4 @@
-﻿namespace DropDownStruct
+﻿namespace StructDropDown
 {
     using System;
     using System.Linq;

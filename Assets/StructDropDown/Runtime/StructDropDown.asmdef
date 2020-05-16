@@ -1,11 +1,7 @@
 {
-    "name": "DropDownStruct.Editor",
-    "references": [
-        "GUID:342804aa297874f499cc42e27df26e09"
-    ],
-    "includePlatforms": [
-        "Editor"
-    ],
+    "name": "StructDropDown",
+    "references": [],
+    "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,

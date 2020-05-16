@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace DropDownStruct
+namespace StructDropDown
 {
     public class ExampleBehaviour : MonoBehaviour
     {
