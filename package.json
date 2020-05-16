@@ -1,0 +1,25 @@
+{
+  "name": "com.solidalloy.struct.drop.down",
+  "version": "1.0.0",
+  "displayName": "Struct DropDown",
+  "description": "Create drop-down lists which can contain objects of any type with one simple attribute.",
+  "keywords": [
+    "dropdown",
+    "class",
+    "struct",
+    "drop-down",
+    "enum"
+  ],
+  "author": {
+    "name": "SolidAlloy",
+    "url": "https://github.com/SolidAlloy/"
+  },
+  "samples": [
+    {
+      "displayName": "Usage Example",
+      "description": "A MonoBehaviour script that uses DropDown attribute to show struct fields in a drop-down list.",
+      "path": "Samples~/UsageExample"
+    }
+  ],
+  "type": "tool"
+}
