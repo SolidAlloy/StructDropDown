@@ -1,5 +1,5 @@
 {
-  "name": "com.solidalloy.struct_dropdown",
+  "name": "com.solidalloy.struct-dropdown",
   "version": "1.0.0",
   "displayName": "Struct DropDown",
   "description": "Create drop-down lists which can contain objects of any type with one simple attribute.",
